@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-<!--
-**murilo2001/murilo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Murilo Moreira 
+
+### Bem vindo ao meu perfil! Como vão as coisas? 👋😎
+
+- 💼 Atualmente estou trabalhando em [Norven](https://norven.com.br/)
+- 💻 CakePHP, Laravel, View JS
+- ✨ O sucesso é a soma de pequenos esforços repetidos dia após dia
+
+#
+
+### Redes Sociais 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/murilo-jose/)
